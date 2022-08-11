@@ -1,0 +1,30 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_pag_plugin (0.0.1):
+    - Flutter
+    - libpag
+  - libpag (4.0.5.24)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_pag_plugin (from `.symlinks/plugins/flutter_pag_plugin/ios`)
+  - libpag
+
+SPEC REPOS:
+  trunk:
+    - libpag
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_pag_plugin:
+    :path: ".symlinks/plugins/flutter_pag_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_pag_plugin: dc9bfb74eca8bcef7a62655873a951237d0ee4b2
+  libpag: 0f9e14d78c2bf9a98fd29092ba5a770b6f0bc400
+
+PODFILE CHECKSUM: 56bf6fe0482376303d4bd5cb155b4b1b9120d9b2
+
+COCOAPODS: 1.11.2
